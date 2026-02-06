@@ -1,11 +1,7 @@
 {
-  "sellers": [
-    {
       "seller_id": "pub-3846339270756121",
       "seller_type": "PUBLISHER",
       "is_confidential": false,
       "name": "IdeaForge Labs",
       "domain": "ideaforge-labs.github.io"
-    }
-  ]
 }
